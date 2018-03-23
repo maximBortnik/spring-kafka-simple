@@ -1,0 +1,5 @@
+kafka:
+  bootstrap-servers: localhost:59902
+  topic:
+    helloworld: helloworld.t
+    batch: batch.t
